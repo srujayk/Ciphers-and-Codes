@@ -1,2 +1,2 @@
 # Ciphers-and-Codes
-Caesar and Vigenère ciphers and Morse code in C and Java.
+Caesar and Vigenère ciphers and Morse code implemented in C and Java.
